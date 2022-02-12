@@ -1,0 +1,138 @@
+/* banner-section */
+.banner-section{
+    background:#f9f9ff ;
+    margin-top: 10px;
+}
+.banner-section .text a{
+    background:#8490ff ;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.banner-section .text a:hover{
+    background: #63bcfc;
+}
+.banner-section .text{
+    margin-top: 150px;
+}
+.banner-section .text h4{
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.banner-section .text h1{
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom:30px;
+}
+.banner-section .text p{
+    margin-bottom: 40px;
+}
+/* about-section */
+.about-section .tex{
+    margin-left: 25px;
+}
+.about-section .tex h2{
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.about-section .tex p{
+    margin-bottom: 30px;
+}
+.about-section .tex a{
+    background:#8490ff ;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.about-section .tex a:hover{
+    background:#63bcfc ;
+}
+/* count-section */
+.count-section{
+    background:#8490ff ;
+    padding: 50px;
+}
+.count-section .div-1{
+    color: #fff;
+}
+/* service-section */
+.service-section{
+    background:#f9f9ff ;
+    padding: 50px;
+}
+.service-section .card .color{
+    border-color:#8490ff ;
+}
+.service-section .card h3{
+    background:#f9f9ff ;
+    line-height: 100px;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.service-section .card h5{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+/* team-section */
+.team-section{
+    padding: 100px;
+    background: #fff;
+}
+.team-section .card h2{
+    font-size: 25px;
+}
+.team-section .card p{
+    margin-bottom: 20px;
+}
+.team-section img{
+    width: 80px;
+    margin-top: -80px;
+    margin-left: -120px;
+}
+.team-section .card a{
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+/* contact-section */
+.contact-section {
+    background:#f9f9ff ;
+    padding: 80px;
+}
+.contact-section .uper p{
+    font-size: 20px;
+}
+.contact-section .btn-1{
+    color: #fff;
+    background:#17a2b8 ;
+}
+.contact-section .div-22 h5{
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.contact-section .div-22 p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+/* footer-section */
+.footer-section{
+    background:#04091e ;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.footer-section p{
+    padding-top: 10px;
+}
